@@ -1,0 +1,28 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+h1{
+    text-align: center;
+    color:aquamarine
+}
+
+h4{
+    color: beige;
+}
+.products{
+    display: flex;
+    flex-direction: row;
+    background-color: aquamarine;
+    justify-content: space-between;
+
+
+}
+.footer{
+    display: flex;
+    background-color: blanchedalmond;
+    margin-left: 100px;
+    flex-direction: row;
+}
+
